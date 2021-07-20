@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Sunho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Korea"
+  bio              : "**amazing** freekick."
+  location         : "Somewhere"
   email            :
   links:
     - label: "Email"
